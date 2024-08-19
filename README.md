@@ -35,4 +35,4 @@ Dodatkowe słowa do tematu
 * [netflix.com](https://www.netflix.com/ "Netflix")
 
 #### Ilustracje moich ulubionych zwierząt
-* ![Kotki](https://kakadu.pl/blog/wp-content/uploads/2014/06/pielegnacja-i-zywienie-kotki-w-ciazy.jpg "Kocurek")
+*   ![Kotki](https://kakadu.pl/blog/wp-content/uploads/2014/06/pielegnacja-i-zywienie-kotki-w-ciazy.jpg "Kocurek")
