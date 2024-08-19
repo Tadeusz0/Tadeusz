@@ -3,7 +3,7 @@
 Jestem **stażystą** w _M-line_ i uczę się jak działa ***Github*** i co dzięki niemu mogę robić,  
 to naprawdę ciekawa strona.
 
-#### Rzeczy które mi się podobają w ***Githubie***: #### (wyliczenia z punktami kropkowymi)
+#### Rzeczy które mi się podobają w ***Githubie***:  (wyliczenia z punktami kropkowymi)
 * Łatwość w obsłudze.
 * Wygoda korzystania.
 * Łatwość w zaznajomieniu.
@@ -13,7 +13,7 @@ to naprawdę ciekawa strona.
 * Samouczki zamiszczone na stronie.
 * Przyjazne społeczeństwo
 
-#### Rzeczy które mi się podobają w ***Githubie***: #### (wyliczenia z punktami numerowymi)
+#### Rzeczy które mi się podobają w ***Githubie***:  (wyliczenia z punktami numerowymi)
 1. Łatwość w obsłudze.
 2. Wygoda korzystania.
 3. Łatwość w zaznajomieniu.
