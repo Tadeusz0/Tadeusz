@@ -25,8 +25,8 @@ to naprawdę ciekawa strona.
 
 Dodatkowe słowa do tematu
 -----------
-### Cytat:
+#### Cytat:
 >pełno nas, a jakby nikogo nie było.
 
 
-### **Strony internetowe** z których często korzystam:
+#### **Strony internetowe** z których często korzystam:
