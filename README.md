@@ -23,10 +23,10 @@ to naprawdę ciekawa strona.
 7. Samouczki zamiszczone na stronie.
 8. Przyjazne społeczeństwo
 
-Witaj, tu Tadeusz
+Dodatkowe słowa do tematu
 -----------
-Cytat:
->Nie chciałem żywym śpiewać,
-dziś umarłym muszę,
-A cudzej śmierci płacząc,
-sam swe kości suszę.
+### Cytat:
+>pełno nas, a jakby nikogo nie było.
+
+
+### **Strony internetowe** z których często korzystam:
