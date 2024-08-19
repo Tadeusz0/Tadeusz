@@ -30,4 +30,6 @@ Dodatkowe słowa do tematu
 
 
 #### **Strony internetowe** z których często korzystam:
-* [YouTube.com](https://www.youtube.com "YouTube")
+* [youtube.com](https://www.youtube.com "YouTube")
+* [twitch.tv](https://www.twitch.tv/ "Twitch")
+* [netflix.com](https://www.netflix.com/ "Netflix")
