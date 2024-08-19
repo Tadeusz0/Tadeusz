@@ -33,3 +33,6 @@ Dodatkowe słowa do tematu
 * [youtube.com](https://www.youtube.com "YouTube")
 * [twitch.tv](https://www.twitch.tv/ "Twitch")
 * [netflix.com](https://www.netflix.com/ "Netflix")
+
+#### Ilustracje moich ulubionych zwierząt
+* ![Kotki](https://kakadu.pl/blog/wp-content/uploads/2014/06/pielegnacja-i-zywienie-kotki-w-ciazy.jpg "Kocurek")
