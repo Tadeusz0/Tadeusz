@@ -25,3 +25,8 @@ to naprawdę ciekawa strona.
 
 Witaj, tu Tadeusz
 -----------
+Cytat:
+>Nie chciałem żywym śpiewać,
+dziś umarłym muszę,
+A cudzej śmierci płacząc,
+sam swe kości suszę.
