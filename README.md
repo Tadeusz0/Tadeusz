@@ -1,5 +1,8 @@
+<!--
+
 Title:  Markdown, MultiMarkdown i CriticMarkup
 
+-->
 
 # Witaj, tu Tadeusz #
 
@@ -50,4 +53,4 @@ Dodatkowe słowa do tematu
 
 ![Szczury](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaJHLGeBEDKzVDszL7QVd9Bui8LWyre0pvqFaKqN_qrq2RSosUi1hwMJ52_lu_Nxt9CU&usqp=CAU "Szczurek")
 
-[Witaj, tu Tadeusz]
+
