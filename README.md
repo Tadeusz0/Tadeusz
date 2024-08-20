@@ -36,4 +36,4 @@ Dodatkowe słowa do tematu
 
 #### Ilustracje moich ulubionych zwierząt
 ![Kotki](https://kakadu.pl/blog/wp-content/uploads/2014/06/pielegnacja-i-zywienie-kotki-w-ciazy.jpg "Kocurek")
-* ![]
+* ![Pingwiny](https://media.istockphoto.com/id/510538701/tr/foto%C4%9Fraf/rockhopper-penguin-looks-directly-at-camera.jpg?s=170667a&w=0&k=20&c=wzCftGRPLt4X3Xw5JVkeHLshQI17wjsDwRE-cxu4Ywk= "Pingwin")
