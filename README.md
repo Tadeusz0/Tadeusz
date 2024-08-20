@@ -34,6 +34,12 @@ Dodatkowe słowa do tematu
 * [twitch.tv](https://www.twitch.tv/ "Twitch")
 * [netflix.com](https://www.netflix.com/ "Netflix")
 
-#### Ilustracje moich ulubionych zwierząt
+#### Ilustracje moich ulubionych zwierząt:
+1. Kotki
+
 ![Kotki](https://kakadu.pl/blog/wp-content/uploads/2014/06/pielegnacja-i-zywienie-kotki-w-ciazy.jpg "Kocurek")
-![Pingwiny ple kolwaadas oko](https://media.istockphoto.com/id/510538701/tr/foto%C4%9Fraf/rockhopper-penguin-looks-directly-at-camera.jpg?s=170667a&w=0&k=20&c=wzCftGRPLt4X3Xw5JVkeHLshQI17wjsDwRE-cxu4Ywk= "Pingwin")
+
+3. Pingwiny
+
+![Pingwiny](https://media.istockphoto.com/id/510538701/tr/foto%C4%9Fraf/rockhopper-penguin-looks-directly-at-camera.jpg?s=170667a&w=0&k=20&c=wzCftGRPLt4X3Xw5JVkeHLshQI17wjsDwRE-cxu4Ywk= "Pingwin")
+
