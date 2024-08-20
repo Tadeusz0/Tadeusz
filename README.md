@@ -39,7 +39,11 @@ Dodatkowe słowa do tematu
 
 ![Kotki](https://kakadu.pl/blog/wp-content/uploads/2014/06/pielegnacja-i-zywienie-kotki-w-ciazy.jpg "Kocurek")
 
-3. Pingwiny
+2. Pingwiny
 
 ![Pingwiny](https://media.istockphoto.com/id/510538701/tr/foto%C4%9Fraf/rockhopper-penguin-looks-directly-at-camera.jpg?s=170667a&w=0&k=20&c=wzCftGRPLt4X3Xw5JVkeHLshQI17wjsDwRE-cxu4Ywk= "Pingwin")
+
+3. Szczury
+
+![Szczury](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaJHLGeBEDKzVDszL7QVd9Bui8LWyre0pvqFaKqN_qrq2RSosUi1hwMJ52_lu_Nxt9CU&usqp=CAU "Szczurek")
 
