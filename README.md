@@ -9,8 +9,6 @@ Tytuł:  Markdown, MultiMarkdown i CriticMarkup
 Jestem **stażystą** w _M-line_ i uczę się jak działa ***Github*** i co dzięki niemu mogę robić,  
 to naprawdę ciekawa strona.
 
-[Więcej o mnie]
-
 #### Rzeczy które mi się podobają w ***Githubie***:  (wyliczenia z punktami kropkowymi)
 * Łatwość w obsłudze.
 * Wygoda korzystania.
@@ -31,11 +29,12 @@ to naprawdę ciekawa strona.
 7. Samouczki zamiszczone na stronie.
 8. Przyjazne społeczeństwo
 
-[Więcej o mnie]:
+Więcej o mnie:
 -----------
-#### Cytat:
->pełno nas, a jakby nikogo nie było.
 
+#### Cytat:
+
+>pełno nas, a jakby nikogo nie było.
 
 #### **Strony internetowe** z których często korzystam:
 * [youtube.com](https://www.youtube.com "YouTube")
