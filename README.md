@@ -7,7 +7,7 @@ Tytuł:  Markdown, MultiMarkdown i CriticMarkup
 # Witaj, tu Tadeusz #
 
 Jestem **stażystą** w _M-line_ i uczę się jak działa ***Github*** i co dzięki niemu mogę robić,  
-to naprawdę ciekawa strona. (wszystko co tu pisze jest żeby sprawdzić jak działa README.md)
+to naprawdę ciekawa strona (wszystko co tu pisze jest żeby sprawdzić jak działa README.md).
 
 #### Rzeczy które mi się podobają w ***Githubie***:  (wyliczenia z punktami kropkowymi)
 * Łatwość w obsłudze.
